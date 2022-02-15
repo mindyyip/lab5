@@ -1,0 +1,3 @@
+/mnt/c/Users/mindy/OneDrive/Documents/Classes/Spring 2022/Open Source Software/Class Git/CSCI-4470-OpenSource/Modules/05.BuildSystems/Ex-sp17/build/cmake/Help/guide/tutorial/Step2/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/mindy/OneDrive/Documents/Classes/Spring 2022/Open Source Software/Class Git/CSCI-4470-OpenSource/Modules/05.BuildSystems/Ex-sp17/build/cmake/Help/guide/tutorial/Step2/CMakeFiles/Tutorial.dir
+/mnt/c/Users/mindy/OneDrive/Documents/Classes/Spring 2022/Open Source Software/Class Git/CSCI-4470-OpenSource/Modules/05.BuildSystems/Ex-sp17/build/cmake/Help/guide/tutorial/Step2/CMakeFiles/edit_cache.dir

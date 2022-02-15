@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/mindy/OneDrive/Documents/Classes/Spring 2022/Open Source Software/Class Git/CSCI-4470-OpenSource/Modules/05.BuildSystems/Ex-sp17/build/cmake/Help/guide/tutorial/Step1/tutorial.cxx
+cmath
+-
+cstdlib
+-
+iostream
+-
+string
+-
+TutorialConfig.h
+/mnt/c/Users/mindy/OneDrive/Documents/Classes/Spring 2022/Open Source Software/Class Git/CSCI-4470-OpenSource/Modules/05.BuildSystems/Ex-sp17/build/cmake/Help/guide/tutorial/Step1/TutorialConfig.h
+
+TutorialConfig.h
+

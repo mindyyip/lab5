@@ -1,0 +1,6 @@
+/mnt/c/Users/mindy/OneDrive/Documents/Classes/Spring 2022/Open Source Software/Class Git/CSCI-4470-OpenSource/Modules/05.BuildSystems/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/mindy/OneDrive/Documents/Classes/Spring 2022/Open Source Software/Class Git/CSCI-4470-OpenSource/Modules/05.BuildSystems/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/mindy/OneDrive/Documents/Classes/Spring 2022/Open Source Software/Class Git/CSCI-4470-OpenSource/Modules/05.BuildSystems/build/CMakeFiles/dynamic_block.dir
+/mnt/c/Users/mindy/OneDrive/Documents/Classes/Spring 2022/Open Source Software/Class Git/CSCI-4470-OpenSource/Modules/05.BuildSystems/build/CMakeFiles/dynamic_library.dir
+/mnt/c/Users/mindy/OneDrive/Documents/Classes/Spring 2022/Open Source Software/Class Git/CSCI-4470-OpenSource/Modules/05.BuildSystems/build/CMakeFiles/static_library.dir
+/mnt/c/Users/mindy/OneDrive/Documents/Classes/Spring 2022/Open Source Software/Class Git/CSCI-4470-OpenSource/Modules/05.BuildSystems/build/CMakeFiles/static_block.dir
